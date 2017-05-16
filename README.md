@@ -1,3 +1,10 @@
 # Talk It Out
 
-*See Prime assignment app for instructions. Then, update me!*
+## Purpose
+To "talk it out" and collaboratively code the assignment
+
+
+## Authors
+- Jason Ruby
+- Alessandro Leyva
+- Hogan McDonald
