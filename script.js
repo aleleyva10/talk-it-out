@@ -67,10 +67,11 @@ function stringConvert(val) {
   val = String(val);
   console.log(val);
   if (val.length > 1) {
-    majorKey = val.substring(1);
+    val = val.substring(1);
   }
+  return val;
 }
-stringConvert(majorKey);
+majorKey = stringConvert(majorKey);
 console.log(majorKey);
 // 12. Call the function.
 //
